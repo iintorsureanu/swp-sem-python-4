@@ -1,0 +1,9 @@
+name: psw-py4-env
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - seaborn
